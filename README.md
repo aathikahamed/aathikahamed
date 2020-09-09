@@ -1,6 +1,6 @@
 <h2>👋 Hey there! I'm Aathik.</h2>
 
-<h3> 👨💻 About Me </h3>
+<h3> 👨 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Mathematics and Business at Highfields Sixth Form.
