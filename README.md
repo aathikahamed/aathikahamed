@@ -1,4 +1,4 @@
-<h2>👋 Hey there! I'm Aditya.</h2>
+<h2>👋 Hey there! I'm Aathik.</h2>
 
 <h3> 👨💻 About Me </h3>
 
