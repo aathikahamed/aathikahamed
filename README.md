@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Mathematics and Business at Highfields Sixth Form.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, UI and UX Design
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
