@@ -3,7 +3,7 @@
 <h3> 👨 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Mathematics and Business at Highfields Sixth Form.
+- 🎓 &nbsp; Studying Computer Science, Mathematics and Business in <a href="http://www.hswv.org.uk/">Highfields Sixth Form.</a>
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, UI and UX Design
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
 
