@@ -27,7 +27,9 @@
   
 <a href="https://www.aathik.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.aathik.com-blue?style=for-the-badge&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/aathik-ahamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aatihk%20Ahamed-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/AhamedAathik"><img src="https://img.shields.io/badge/Twitter-AhamedAathik?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/schmelto2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+<a href="https://twitter.com/AhamedAathik"><img src="https://img.shields.io/badge/Twitter-AhamedAathik?style=for-the-badge&logo=twitter&color=blue&logoColor=white"></a>
 <a href="mailto:aathikahamed@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aathikahamed@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
 </p>
