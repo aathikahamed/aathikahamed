@@ -23,7 +23,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/schmelto2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   
   
 <a href="https://www.aathik.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.aathik.com-blue?style=for-the-badge&logo=google-chrome"></a>
