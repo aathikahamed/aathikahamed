@@ -9,11 +9,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Python | Django | Node.js | Express.js
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | ReactJS | Bootstrap | Material UI
 - 🛢 &nbsp; Postgersql | MongoDB | Firebase
-- 🔧 &nbsp; Git | Markdown | Selenium
-- 🖥 &nbsp; AdobeXD | Photoshop | Figma
+- 🔧 &nbsp; Git | Selenium | Markdown
+- 🖥 &nbsp; Figma | Photoshop
 
 <br/>
 
