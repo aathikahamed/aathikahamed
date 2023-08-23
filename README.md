@@ -3,15 +3,15 @@
 <h3> 👨 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Mathematics and Business in <a href="http://www.hswv.org.uk/">Highfields Sixth Form.</a>
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, UI and UX Design
+- 🎓 &nbsp; Reading Computer Science at the University of Warwick.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, UI and UX Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Node.js | Express.js | Python | Django
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | ReactJS | Tailwind CSS | Material UI
-- 🛢 &nbsp; MongoDB | Postgersql | Firebase
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJS | Next.js | Tailwind CSS | Material UI
+- 🛢 &nbsp; MongoDB | PostgerSQL | MySQL | Firebase
 - 🔧 &nbsp; Git | GitHub | Selenium | Markdown
 - 🖥 &nbsp; Figma | Photoshop
 
