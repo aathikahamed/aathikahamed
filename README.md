@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Aathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aathikahamed&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true)](https://github.com/aathikahamed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
